@@ -123,8 +123,6 @@ Feito com café, teimosia e uma Mão de 11 ou outra por
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/castilhoserafim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/castilhoserafim)
 
-> ⚠️ Substitui os links acima pelos teus perfis reais de GitHub e LinkedIn antes de publicar o README.
-
 <div align="center">
 
 **🂡 Se o projeto valeu um "Truco!", deixa uma ⭐ no repositório. 🂡**
