@@ -1,0 +1,15 @@
+export const colors = {
+  feltro: '#0B3D22',
+  feltroClaro: '#14532D',
+  feltroEscuro: '#072A18',
+  vermelhoNaipe: '#C8102E',
+  vermelhoEscuro: '#8F0B20',
+  pretoNaipe: '#111111',
+  cartaBranco: '#FFFFFF',
+  cartaBege: '#F5EFE0',
+  bordaBege: '#D9CFB4',
+  bloqueado: '#6B7280',
+  bloqueadoTexto: '#D1D5DB',
+  dourado: '#E5B94B',
+  overlay: 'rgba(0, 0, 0, 0.72)',
+} as const;
